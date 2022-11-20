@@ -1,0 +1,18 @@
+.header {
+    display: inline-block;
+}
+/*.navigation {
+    display: inline-block;
+} */
+.logo {
+    width: 30vw;
+    height: 50px;
+    background-color: rgba(194, 76, 172, 0.748);
+    border: 3px solid #fe15fe;
+}
+
+.contacts {
+    width: 70vw;
+    height: 50px;
+    background-color: rgba(63, 91, 182, 0.748);
+}
